@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Lista de Productos</title>
-        <link rel="stylesheet" type="text/css" href="vista/css/estilos.css">
+        <link rel="stylesheet" type="text/css" href="vista/css/estilosProductos.css">
     </head>
     <body>
         <center>
